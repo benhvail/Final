@@ -1,0 +1,252 @@
+[
+    {
+       "brand":"Bell’s Brewery",
+       "name":"Two Hearted IPA",
+       "rank":2
+    },
+    {
+       "brand":"Sierra Nevada",
+       "name":"Pale Ale",
+       "rank":1
+    },
+    {
+       "brand":"Russian River",
+       "name":"Pliny the Elder IIPA",
+       "rank":3
+    },
+    {
+       "brand":"Sierra Nevada",
+       "name":"Hazy Little Thing",
+       "rank":34
+    },
+    {
+       "brand":"Founders",
+       "name":"Kentucky Breakfast Stout",
+       "rank":10
+    },
+    {
+       "brand":"Brasserie Dupont",
+       "name":"Saison Dupont",
+       "rank":18
+    },
+    {
+       "brand":"Goose Island",
+       "name":"Bourbon County Brand Stout",
+       "rank":8
+    },
+    {
+       "brand":"Allagash",
+       "name":"White",
+       "rank":15
+    },
+    {
+       "brand":"Founders",
+       "name":"Breakfast Stout",
+       "rank":11
+    },
+    {
+       "brand":"Founders",
+       "name":"All Day IPA",
+       "rank":6
+    },
+    {
+       "brand":"Guinness",
+       "name":"Extra Stout",
+       "rank":4
+    },
+    {
+       "brand":"Samuel Adams",
+       "name":"Boston Lager",
+       "rank":5
+    },
+    {
+       "brand":"Toppling Goliath",
+       "name":"Pseudo Sue",
+       "rank":23
+    },
+    {
+       "brand":"Cigar City",
+       "name":"Jai Alai IPA",
+       "rank":13
+    },
+    {
+       "brand":"Sierra Nevada",
+       "name":"Celebration",
+       "rank":28
+    },
+    {
+       "brand":"North Coast",
+       "name":"Old Rasputin Stout",
+       "rank":37
+    },
+    {
+       "brand":"The Alchemist",
+       "name":"Heady Topper IPA",
+       "rank":16
+    },
+    {
+       "brand":"WeldWerks",
+       "name":"Juicy Bits IPA",
+       "rank":20
+    },
+    {
+       "brand":"Three Floyds",
+       "name":"Zombie Dust Pale Ale",
+       "rank":44
+    },
+    {
+       "brand":"Brasserie d’Orval",
+       "name":"Orval",
+       "rank":40
+    },
+    {
+       "brand":"Tree House",
+       "name":"Julius IPA",
+       "rank":24
+    },
+    {
+       "brand":"Boulevard",
+       "name":"Tank 7 Farmhouse Ale",
+       "rank":7
+    },
+    {
+       "brand":"Toppling Goliath",
+       "name":"King Sue",
+       "rank":"new"
+    },
+    {
+       "brand":"Ballast Point",
+       "name":"Sculpin IPA",
+       "rank":12
+    },
+    {
+       "brand":"Deschutes",
+       "name":"Black Butte Porter",
+       "rank":17
+    },
+    {
+       "brand":"New Holland",
+       "name":"Dragon’s Milk Stout",
+       "rank":30
+    },
+    {
+       "brand":"Dogfish Head",
+       "name":"90 Minute IPA",
+       "rank":14
+    },
+    {
+       "brand":"Russian River",
+       "name":"Blind Pig",
+       "rank":41
+    },
+    {
+       "brand":"Founders",
+       "name":"Canadian Breakfast Stout",
+       "rank":"new"
+    },
+    {
+       "brand":"Yuengling",
+       "name":"Traditional Lager",
+       "rank":"new"
+    },
+    {
+       "brand":"Firestone Walker",
+       "name":"Pivo Pils",
+       "rank":33
+    },
+    {
+       "brand":"Lawson’s Finest",
+       "name":"Sip of Sunshine IPA",
+       "rank":25
+    },
+    {
+       "brand":"Stone",
+       "name":"IPA",
+       "rank":29
+    },
+    {
+       "brand":"The Alchemist",
+       "name":"Focal Banger",
+       "rank":46
+    },
+    {
+       "brand":"Bear Republic",
+       "name":"Racer 5 IPA",
+       "rank":"new"
+    },
+    {
+       "brand":"Great Lakes",
+       "name":"Edmund Fitzgerald Porter",
+       "rank":"new"
+    },
+    {
+       "brand":"New Belgium",
+       "name":"Fat Tire Amber Ale",
+       "rank":26
+    },
+    {
+       "brand":"Deschutes",
+       "name":"Fresh Squeezed IPA",
+       "rank":9
+    },
+    {
+       "brand":"Dogfish Head",
+       "name":"Sea Quench",
+       "rank":"new"
+    },
+    {
+       "brand":"New Belgium",
+       "name":"Voodoo Ranger",
+       "rank":"new"
+    },
+    {
+       "brand":"Pilsner Urquell",
+       "name":"Pilsner",
+       "rank":21
+    },
+    {
+       "brand":"Sierra Nevada",
+       "name":"Oktoberfest",
+       "rank":"new"
+    },
+    {
+       "brand":"Sierra Nevada",
+       "name":"Torpedo",
+       "rank":"new"
+    },
+    {
+       "brand":"Dogfish Head",
+       "name":"120 Minute IPA",
+       "rank":"new"
+    },
+    {
+       "brand":"Odell",
+       "name":"IPA",
+       "rank":48
+    },
+    {
+       "brand":"Old Nation",
+       "name":"M-43 IPA",
+       "rank":"new"
+    },
+    {
+       "brand":"Weihenstephaner",
+       "name":"Hefeweissbier",
+       "rank":"new"
+    },
+    {
+       "brand":"Firestone Walker",
+       "name":"Union Jack IPA",
+       "rank":38
+    },
+    {
+       "brand":"Founders",
+       "name":"Backwoods Bastard",
+       "rank":22
+    },
+    {
+       "brand":"Left Hand",
+       "name":"Nitro Milk Stout",
+       "rank":36
+    }
+ ]
